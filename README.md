@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Satish Reddy 👋
+### Hi there, Satish Reddy
 
 # Data-Driven Decision Making through AI & Machine LearningI
 
