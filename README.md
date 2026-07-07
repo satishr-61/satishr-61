@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi, I'm Satish Reddy 👋
+# Hi, I'm Satish Reddy 👋
 
 ### Data Science Enthusiast | Machine Learning | Python | SQL
 
@@ -32,5 +32,3 @@ Passionate about transforming data into actionable insights through Machine Lear
 > *"Turning data into decisions, one project at a time."*
 
 **satishr-61/satishr-61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
