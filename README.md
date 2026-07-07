@@ -1,6 +1,6 @@
-### Hi there, Satish Reddy
+## Hi there, Satish Reddy
 
-# Data-Driven Decision Making through AI & Machine LearningI
+#### Data-Driven Decision Making through AI & Machine Learning
 
 Passionate about transforming data into actionable insights through Machine Learning and Analytics. I enjoy building end-to-end Data Science projects, exploring new technologies, and continuously improving my problem-solving skills.
 
