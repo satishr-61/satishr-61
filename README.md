@@ -2,13 +2,13 @@
 
 # Hi, I'm Satish Reddy 👋
 
-### Data Science Enthusiast | Machine Learning | Python | SQL
+## Data Science Enthusiast | Machine Learning
 
 Passionate about transforming data into actionable insights through Machine Learning and Analytics. I enjoy building end-to-end Data Science projects, exploring new technologies, and continuously improving my problem-solving skills.
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 * Machine Learning
 * Data Analysis & Visualization
@@ -18,13 +18,11 @@ Passionate about transforming data into actionable insights through Machine Lear
 
 ---
 
-### 🛠️ Tools & Technologies
-
-**Python • SQL • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • MySQL • Git • GitHub • Jupyter Notebook • VS Code**
+🛠️ Skills: Python | MySQL | Machine Learning | Applied Statistics | Probability and Random Variables | 
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 💼 LinkedIn: www.linkedin.com/in/satish-reddy-s-728474sr
 📧 Email: satishreddys.work@gmail.com
