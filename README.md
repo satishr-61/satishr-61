@@ -18,6 +18,15 @@ Reach me at:
 
 💼 LinkedIn: www.linkedin.com/in/satish-reddy-s-728474sr
 📧 Email: satishreddys.work@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
 > *"Turning data into decisions, one project at a time."*
 
