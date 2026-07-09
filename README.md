@@ -14,7 +14,7 @@ Passionate about transforming data into actionable insights through Machine Lear
 
 ---
 
-# 📫 Connect with Me
+Reach me at:
 
 💼 LinkedIn: www.linkedin.com/in/satish-reddy-s-728474sr
 📧 Email: satishreddys.work@gmail.com
