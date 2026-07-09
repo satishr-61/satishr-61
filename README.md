@@ -19,19 +19,15 @@ Reach me at:
 💼 LinkedIn: www.linkedin.com/in/satish-reddy-s-728474sr
 📧 Email: satishreddys.work@gmail.com
 <p align="left">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/satish-reddy-s-728474sr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/satish-reddy-s-728474sr">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
 
   <a href="mailto:satishreddys.work@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
 </p>
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satishr-61&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 > *"Turning data into decisions, one project at a time."*
 
 **satishr-61/satishr-61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
